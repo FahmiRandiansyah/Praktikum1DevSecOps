@@ -4,12 +4,28 @@
   "released_at": "",
   "summary": {
     "title": "Aplikasi E-Commerce",
-    "owner": "Fahmi Randiansyah",
-    "description": "",
+    "owner": "Alis SUper",
+    "description": "membu9at thera",
     "id": 0
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Fahmi Randiansyah"
+      },
+      {
+        "name": "Dhio Patty Alexander"
+      },
+      {
+        "name": "Muhammad Mufid Azhar"
+      },
+      {
+        "name": "Maulana Sahputra"
+      },
+      {
+        "name": "Muhammad Raihan Avandi"
+      }
+    ],
     "diagrams": [
       {
         "id": 0,
